@@ -1,3 +1,3 @@
 # hello-world
 mi primer repository 
-bueno este archivo no es necesario para el tutorial
+finalmente este archivo si era importante!
