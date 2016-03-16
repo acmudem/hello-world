@@ -1,3 +1,1 @@
-# hello-world
-mi primer repository 
-finalmente este archivo si era importante!
+en este punto borre toda la informacion de este archivo.
