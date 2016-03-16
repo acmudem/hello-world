@@ -1,3 +1,1 @@
-# hello-world
-mi primer repository 
-finalmente este archivo si era importante!
+de nuevo agregando informacion ,para que se vea como un nuevo cambio
